@@ -6,11 +6,11 @@ using Verilog HDL as part of VLSI
 learning journey.
 
 ## Gates Implemented
-- AND Gate  ✅
-- OR Gate   ✅
-- NOT Gate  ✅
-- NAND Gate ✅
-- XOR Gate  ✅
+- AND Gate  
+- OR Gate   
+- NOT Gate  
+- NAND Gate 
+- XOR Gate  
 
 ## Tools Used
 - Verilog HDL
@@ -19,7 +19,7 @@ learning journey.
 
 ## Simulation Results
 All gates verified using testbenches
-Truth tables match expected output ✅
+Truth tables match expected output 
 
 ## About Me
 - 3rd Year ECE Student
